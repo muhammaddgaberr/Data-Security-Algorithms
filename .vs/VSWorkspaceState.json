@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SecurityPackage",
+    "\\SecurityPackage\\SecurityPackage",
+    "\\SecurityPackage\\SecurityPackage\\securitylibrary",
+    "\\SecurityPackage\\SecurityPackage\\securitylibrary\\MainAlgorithms"
+  ],
+  "SelectedNode": "\\SecurityPackage\\SecurityPackage\\securitylibrary\\MainAlgorithms\\RailFence.cs",
+  "PreviewInSolutionExplorer": false
+}

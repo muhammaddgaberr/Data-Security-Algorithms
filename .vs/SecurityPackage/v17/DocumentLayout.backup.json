@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\rc4\\rc4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\rc4\\rc4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitypackagetest\\rc4test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|solutionrelative:securitypackagetest\\rc4test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\mainalgorithms\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\mainalgorithms\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitypackagetest\\playfairtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|solutionrelative:securitypackagetest\\playfairtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\elgamal\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\elgamal\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\mainalgorithms\\autokeyvigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\mainalgorithms\\autokeyvigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\mainalgorithms\\ceaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\mainalgorithms\\ceaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\cryptographictechnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\cryptographictechnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\icryptographictechnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\icryptographictechnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\mainalgorithms\\columnar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\mainalgorithms\\columnar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\icryptographic_technique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\icryptographic_technique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SecurityLibrary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\diffiehellman\\diffiehellman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\diffiehellman\\diffiehellman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\elgamaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|solutionrelative:securitypackagetest\\elgamaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\deffiehelmantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|solutionrelative:securitypackagetest\\deffiehelmantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|c:\\users\\dell\\onedrive\\desktop\\data security project\\data security algorithms\\securitylibrary\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RC4Test.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\RC4Test.cs",
+              "RelativeDocumentMoniker": "securitypackagetest\\RC4Test.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\RC4Test.cs",
+              "RelativeToolTip": "securitypackagetest\\RC4Test.cs",
+              "ViewState": "AgIAACYAAAAAzczMzMwqwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T02:05:13.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RC4.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\RC4\\RC4.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\RC4\\RC4.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\RC4\\RC4.cs*",
+              "RelativeToolTip": "securitylibrary\\RC4\\RC4.cs*",
+              "ViewState": "AgIAAH0AAADgMjMzMzMpwJYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:07:06.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayfairTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\PlayfairTest.cs",
+              "RelativeDocumentMoniker": "securitypackagetest\\PlayfairTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\PlayfairTest.cs",
+              "RelativeToolTip": "securitypackagetest\\PlayfairTest.cs",
+              "ViewState": "AgIAAF4AAAAA0czMzMwuwGgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:55:47.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Columnar.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\MainAlgorithms\\Columnar.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\MainAlgorithms\\Columnar.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\MainAlgorithms\\Columnar.cs",
+              "RelativeToolTip": "securitylibrary\\MainAlgorithms\\Columnar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:45:20.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayFair.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\MainAlgorithms\\PlayFair.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\MainAlgorithms\\PlayFair.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\MainAlgorithms\\PlayFair.cs",
+              "RelativeToolTip": "securitylibrary\\MainAlgorithms\\PlayFair.cs",
+              "ViewState": "AgIAAAcAAAAAuMzMzEwdwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:43:13.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ceaser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\MainAlgorithms\\ceaser.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\MainAlgorithms\\ceaser.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\MainAlgorithms\\ceaser.cs",
+              "RelativeToolTip": "securitylibrary\\MainAlgorithms\\ceaser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:42:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SecurityLibrary",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\SecurityLibrary\\SecurityLibrary.csproj",
+              "RelativeDocumentMoniker": "SecurityLibrary\\SecurityLibrary.csproj",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\SecurityLibrary\\SecurityLibrary.csproj",
+              "RelativeToolTip": "SecurityLibrary\\SecurityLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-07T23:40:42.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\Program.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\Program.cs",
+              "RelativeToolTip": "securitylibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:37:02.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CryptographicTechnique.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\CryptographicTechnique.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\CryptographicTechnique.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\CryptographicTechnique.cs",
+              "RelativeToolTip": "securitylibrary\\CryptographicTechnique.cs",
+              "ViewState": "AgIAAAEAAAA8ZWZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:36:06.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICryptographic_Technique.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\ICryptographic_Technique.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\ICryptographic_Technique.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\ICryptographic_Technique.cs",
+              "RelativeToolTip": "securitylibrary\\ICryptographic_Technique.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:35:58.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICryptographicTechnique.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\ICryptographicTechnique.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\ICryptographicTechnique.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\ICryptographicTechnique.cs",
+              "RelativeToolTip": "securitylibrary\\ICryptographicTechnique.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:35:56.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutokeyVigenere.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\MainAlgorithms\\AutokeyVigenere.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\MainAlgorithms\\AutokeyVigenere.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\MainAlgorithms\\AutokeyVigenere.cs",
+              "RelativeToolTip": "securitylibrary\\MainAlgorithms\\AutokeyVigenere.cs",
+              "ViewState": "AgIAAAMAAADAMjMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:24:27.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeffieHelmanTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\DeffieHelmanTest.cs",
+              "RelativeDocumentMoniker": "securitypackagetest\\DeffieHelmanTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\DeffieHelmanTest.cs",
+              "RelativeToolTip": "securitypackagetest\\DeffieHelmanTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:33:45.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ElGamalTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\ElGamalTest.cs",
+              "RelativeDocumentMoniker": "securitypackagetest\\ElGamalTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitypackagetest\\ElGamalTest.cs",
+              "RelativeToolTip": "securitypackagetest\\ElGamalTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:33:43.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ELGAMAL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "RelativeToolTip": "securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "ViewState": "AgIAAAEAAADgZWZmZmYkwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:33:32.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiffieHellman.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\DiffieHellman\\DiffieHellman.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\DiffieHellman\\DiffieHellman.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Data Security Project\\Data Security Algorithms\\securitylibrary\\DiffieHellman\\DiffieHellman.cs",
+              "RelativeToolTip": "securitylibrary\\DiffieHellman\\DiffieHellman.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:33:16.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
