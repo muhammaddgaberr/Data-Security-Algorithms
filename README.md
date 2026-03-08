@@ -7,7 +7,6 @@ The main goal of this project was to implement the **core logic of encryption, d
 ## Technologies
 
 - C#
-- .NET
 - Cryptography Algorithms
 - Problem Solving
 
@@ -61,4 +60,4 @@ The primary focus of this project was:
 - Solving algorithmic problems related to cryptography
 
 ### Unit Tests
-![Tests](images/tests.png)
+![Tests](images/passed_tests.png)
